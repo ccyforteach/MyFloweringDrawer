@@ -10,7 +10,7 @@ import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.TextSwitcher;
 
-
+//我修改了
 public class FeedAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
 
     private Context context;
